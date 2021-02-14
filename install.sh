@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# https://github.com/vinceliuice/Mojave-gtk-theme
+
 # Update Ubuntu and get standard repository programs
 sudo apt update && sudo apt full-upgrade -y
 
