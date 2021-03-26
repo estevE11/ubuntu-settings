@@ -1,0 +1,132 @@
+i  albert - A sophisticated, plugin-based, standalone keyboard launcher written in C++/Qt
+i  apt-file - search for files within Debian packages (command-line interface)
+i  apt-transport-https - transitional package for https support
+i  aptitude - terminal-based package manager
+i  aspnetcore-runtime-5.0 - Shared Framework for hosting of Microsoft ASP.NET Core applications. It is open source, cross-platform and is supported by Microsoft. We hope you enjoy using it! If you do, please consider joining the active community of developers that are contributing to the project on GitHub (https://github.com/dotnet/aspnetcore). We happily accept issues and PRs.
+i  base-passwd - Debian base system master password and group files
+i  blueman - Graphical bluetooth manager
+i  ca-certificates - Common CA certificates
+i  chromium-browser - Transitional package - chromium-browser -> chromium snap
+i  console-setup - console font and keymap setup program
+i  cpu-checker - tools to help evaluate certain CPU (or BIOS) features
+i  curl - command line tool for transferring data with URL syntax
+i  dash - POSIX-compliant shell
+i  dconf-editor - simple configuration storage system - graphical editor
+i  diffutils - File comparison utilities
+i  dirmngr - GNU privacy guard - network certificate management service
+i  dotnet-runtime-5.0 - Microsoft .NET Runtime - 5.0.4 Microsoft.NETCore.App 5.0.4
+i  dotnet-sdk-5.0 - Microsoft .NET SDK 5.0.201
+i  e2fsprogs - ext2/ext3/ext4 file system utilities
+i  findutils - utilities for finding files--find, xargs
+i  firefox-locale-en - English language pack for Firefox
+i  firefox-locale-es - Spanish; Castilian language pack for Firefox
+i  flameshot - Powerful yet simple-to-use screenshot software
+i  fonts-firacode - Monospaced font with programming ligatures
+i  fonts-indic - Meta package to install all Indian language fonts
+i  gimp - GNU Image Manipulation Program
+i  git - fast, scalable, distributed revision control system
+i  github-desktop - Simple collaboration from your desktop
+i  gnome-getting-started-docs-es - Help a new user get started in GNOME (Spanish)
+i  gnome-sushi - sushi is a quick previewer for nautilus
+i  gnome-tweaks - tool to adjust advanced configuration settings for GNOME
+i  gnome-user-docs-es - GNOME user docs (Spanish)
+i  gnupg - GNU privacy guard - a free PGP replacement
+i  google-chrome-stable - The web browser from Google
+i  grep - GNU grep, egrep and fgrep
+i  grub-common - GRand Unified Bootloader (common files)
+i  grub-efi-amd64-signed - GRand Unified Bootloader, version 2 (EFI-AMD64 version, signed)
+i  grub-gfxpayload-lists - GRUB gfxpayload blacklist
+i  grub-pc - GRand Unified Bootloader, version 2 (PC/BIOS version)
+i  grub-pc-bin - GRand Unified Bootloader, version 2 (PC/BIOS modules)
+i  grub2-common - GRand Unified Bootloader (common files for version 2)
+i  guvcview - GTK+ base UVC Viewer
+i  gzip - GNU compression utilities
+i  hostname - utility to set/show the host name or domain name
+i  hunspell-en-us - English_american dictionary for hunspell
+i  hunspell-es - Spanish dictionary for hunspell
+i  hyphen-en-us - English (US) hyphenation patterns
+i  hyphen-es - Spanish hyphenation patterns
+i  init - metapackage ensuring an init system is installed
+i  inkscape - vector-based drawing program
+i  keyboard-configuration - system-wide keyboard preferences
+i  language-pack-en - translation updates for language English
+i  language-pack-en-base - translations for language English
+i  language-pack-es - translation updates for language Spanish; Castilian
+i  language-pack-es-base - translations for language Spanish; Castilian
+i  language-pack-gnome-en - GNOME translation updates for language English
+i  language-pack-gnome-en-base - GNOME translations for language English
+i  language-pack-gnome-es - GNOME translation updates for language Spanish; Castilian
+i  language-pack-gnome-es-base - GNOME translations for language Spanish; Castilian
+i  libatk1.0-dev - Development files for the ATK accessibility toolkit
+i  libcairo2-dev - Development files for the Cairo 2D graphics library
+i  libdebconfclient0 - Debian Configuration Management System (C-implementation library)
+i  libgdiplus - interface library for System.Drawing of Mono
+i  libgdk-pixbuf2.0-dev - GDK Pixbuf library (development files)
+i  libgirepository1.0-dev - Library for handling GObject introspection data (development files)
+i  libglib2.0-dev - Development files for the GLib library
+i  libglib2.0-dev-bin - Development utilities for the GLib library
+i  libgssapi-krb5-2 - MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+i  libgtk-3-dev - development files for the GTK library
+i  libicu66 - International Components for Unicode
+i  libllvm9 - Modular compiler and toolchain technologies, runtime library
+i  libmono-system-windows-forms4.0-cil - Mono System.Windows.Forms Library (for CLI 4.0)
+i  libpango1.0-dev - Development files for the Pango
+i  libreoffice-help-common - office productivity suite -- common files for LibreOffice help
+i  libreoffice-help-en-us - office productivity suite -- English_american help
+i  libreoffice-help-es - office productivity suite -- Spanish help
+i  libreoffice-l10n-es - office productivity suite -- Spanish language package
+i  libssl1.1 - Secure Sockets Layer toolkit - shared libraries
+i  libstdc++6 - GNU Standard C++ Library v3
+i  libxml2-utils - XML utilities
+i  linux-generic-hwe-20.04 - Complete Generic Linux kernel and headers
+i  locales - GNU C Library: National Language (locale) data [support]
+i  lsb-release - Linux Standard Base version reporting utility
+i  mokutil - tools for manipulating machine owner keys
+i  mono-complete - complete Mono runtime, development tools and all libraries
+i  mono-dbg - Mono debugging symbols
+i  mono-devel - Mono development tools
+i  monodevelop - Development Environment for GNOME
+i  mythes-en-us - English (USA) Thesaurus for LibreOffice
+i  mythes-es - Spanish Thesaurus for LibreOffice
+i  ncurses-base - basic terminal type definitions
+i  ncurses-bin - terminal-related programs and man pages
+i  neofetch - Shows Linux System Information with Distribution Logo
+i  neovim - heavily refactored vim fork
+i  nodejs - evented I/O for V8 javascript - runtime executable
+i  npm - package manager for Node.js
+i  nvidia-driver-460 - NVIDIA driver metapackage
+i  obs-studio - recorder and streamer for live video content
+i  optipng - advanced PNG (Portable Network Graphics) optimizer
+i  os-prober - utility to detect other OSes on a set of drives
+i  packages-microsoft-prod - Apt configuration for packages.microsoft.com
+i  pciutils - PCI utilities
+i  peek - Simple animated GIF screen recorder with GUI
+i  php-cli - command-line interpreter for the PHP scripting language (default)
+i  php-curl - CURL module for PHP [default]
+i  php-intl - Internationalisation module for PHP [default]
+i  php-mbstring - MBSTRING module for PHP [default]
+i  poppler-data - encoding data for the poppler PDF rendering library
+i  ruby-full - Ruby full installation (default version)
+i  sassc - C/C++ port of the Sass CSS precompiler - command-line tool
+i  shim-signed - Secure Boot chain-loading bootloader (Microsoft-signed binary)
+i  thunderbird-locale-en - English language pack for Thunderbird
+i  thunderbird-locale-en-us - Transitional English language pack for Thunderbird
+i  thunderbird-locale-es - Spanish; Castilian language pack for Thunderbird
+i  thunderbird-locale-es-es - Transitional Spanish language pack for Thunderbird
+i  tmux - terminal multiplexer
+i  ubuntu-desktop - The Ubuntu desktop system
+i  ubuntu-desktop-minimal - The Ubuntu desktop minimal system
+i  ubuntu-minimal - Minimal core of Ubuntu
+i  ubuntu-restricted-addons - Commonly used restricted packages for Ubuntu
+i  ubuntu-standard - The Ubuntu standard system
+i  ubuntu-wallpapers - Ubuntu Wallpapers
+i  udev - /dev/ and hotplug management daemon
+i  unzip - De-archiver for .zip files
+i  usbutils - Linux USB utilities
+i  vagrant - Tool for building and distributing virtualized development environments
+i  virtualbox-6.1 - Oracle VM VirtualBox
+i  wamerican - American English dictionary words for /usr/share/dict
+i  wbritish - British English dictionary words for /usr/share/dict
+i  wireshark - network traffic analyzer - meta-package
+i  wspanish - Spanish dictionary words for /usr/share/dict
+i  zlib1g - compression library - runtime
